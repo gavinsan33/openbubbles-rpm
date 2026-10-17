@@ -1,0 +1,7 @@
+[openbubbles]
+name=OpenBubbles
+baseurl=https://gavinsan33.github.io/openbubbles-rpm/$basearch
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://gavinsan33.github.io/openbubbles-rpm/RPM-GPG-KEY-openbubbles
